@@ -1,0 +1,19 @@
+{
+  "name": "authentication",
+  "version": "1.0.0",
+  "description": "how to use JSON Web Tokens (JWTs) to authenticate against a REST API using AngularJS",
+  "main": "#",
+  "scripts": {
+    "test": "yes"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hyohannesgithub/Authentication-Over-REST-Using-JWTs.git"
+  },
+  "author": "Habtemariam Yohannes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hyohannesgithub/Authentication-Over-REST-Using-JWTs/issues"
+  },
+  "homepage": "https://github.com/hyohannesgithub/Authentication-Over-REST-Using-JWTs#readme"
+}
