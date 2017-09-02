@@ -2,9 +2,9 @@
   "name": "authentication",
   "version": "1.0.0",
   "description": "how to use JSON Web Tokens (JWTs) to authenticate against a REST API using AngularJS",
-  "main": "#",
+  "main": "index.js",
   "scripts": {
-    "test": "yes"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
